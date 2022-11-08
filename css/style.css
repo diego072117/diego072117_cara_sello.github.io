@@ -320,6 +320,14 @@ section{
    justify-content: center;
 }
 
+.ganaste{
+   color: green;
+}
+
+.perdiste{
+   color: red;
+}
+
 /* media queries  */
 
 @media (max-width:1200px){
@@ -378,6 +386,7 @@ section{
       margin-left: 40%;
    }
 
+  
 
 }
 

@@ -58,10 +58,10 @@
 
 //     apuesta = parseInt(apuesta)
 
-//     while (apuesta > 1 && estado != false && carasello != 0) {
+//     while (apuesta >= 1 && estado != false && carasello != 0) {
 
 //         let aleatorio = 1 + (parseInt(Math.random() * 2))
-       
+     
 
 //         if (carasello == aleatorio) {
 
